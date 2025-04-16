@@ -1,4 +1,4 @@
-# ElevateLabTask6
+# Host a Static Website with GitHub Pages
 
 ## 1. Create a repository on GitHub.
 
