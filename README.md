@@ -8,7 +8,7 @@
 
 ## 4. Choose a branch (e.g., main) and folder (/root or /docs) to publish from.
 
-## GitHub generates a public URL like: <https://your-username.github.io/repo-name>
+## 5. GitHub generates a public URL like: <https://your-username.github.io/repo-name>
 
 ## Website: https://souravhajra123.github.io/ElevateLabTask6/
 ## Output:
