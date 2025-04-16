@@ -11,4 +11,6 @@
 ## GitHub generates a public URL like: <https://your-username.github.io/repo-name>
 
 ## Website: https://souravhajra123.github.io/ElevateLabTask6/
+## Output:
+![image alt](https://github.com/souravhajra123/ElevateLabTask6/blob/a203d69e44912562165349f950aea0539866504d/SS1.png)
 
